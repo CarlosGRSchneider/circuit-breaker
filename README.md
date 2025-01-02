@@ -48,7 +48,3 @@ O projeto demonstra o funcionamento de um Circuit Breaker, um padrão de design 
 3. Configure o servidor de teste disponível no repositório [Servidor Teste Circuit Breaker](https://github.com/CarlosGRSchneider/servidor-teste-circuit-breaker).
 4. Execute a aplicação e observe as mensagens no console para verificar a mudança de estados e o comportamento do Circuit Breaker.
 
----
-
-Sinta-se à vontade para explorar, adaptar e contribuir com melhorias neste projeto. Se encontrar problemas ou tiver dúvidas, abra uma issue!
-
