@@ -1,0 +1,6 @@
+org\example\circuitos\schedulers\CircuitBreakerScheduler.class
+org\example\circuitos\listeners\CircuitBreakerListener.class
+org\example\circuitos\CircuitBreaker.class
+org\example\circuitos\jobs\CircuitBreakerJob.class
+org\example\circuitos\variaveis\VariaveisDoCircuito.class
+org\example\circuitos\enums\EstadoDoCircuito.class
